@@ -1,12 +1,3 @@
-/**
- * Zachary Cytryn
- * ID: 114283379
- * Email: zachary.cytryn@stonybrook.edu
- * Homework #1
- * CSE 214 Recitation 30
- */
-
-
 package musicManager;
 
 /**
