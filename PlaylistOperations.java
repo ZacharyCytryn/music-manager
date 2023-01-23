@@ -1,17 +1,9 @@
-/**
- * Zachary Cytryn
- * ID: 114283379
- * Email: zachary.cytryn@stonybrook.edu
- * Homework #1
- * CSE 214 Recitation 30
- */
-
 package musicManager;
 import java.util.Scanner;
 /**
  * This class contains the main method, where the user inputs information to create a playlist
  * 
- * @author zacharycytryn
+ * @author Zachary Cytryn
  */
 public class PlaylistOperations {
 
